@@ -1,0 +1,9 @@
+package lab09;
+
+public enum SHAPE_TYPE {
+	RECTANGLE,
+	THREEDRECTANGLE,
+	ROUNDRECTANGLE,
+	OVAL,
+	ARC
+}
